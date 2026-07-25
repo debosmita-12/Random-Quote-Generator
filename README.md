@@ -137,3 +137,10 @@ SRM University-AP
  GitHub: https://github.com/debosmita-12
 
 ---
+---
+
+##  License
+
+This project is licensed under the **MIT License**.
+
+You are free to use, modify, distribute, and sublicense this project, provided that the original copyright and license notice are included.
