@@ -65,34 +65,6 @@ quote-generator/
 └── README.md
 ```
 
----
-
-##  Screenshots
-
-###  Home Page
-
-![Home Page](src/assets/homepage.png)
-
----
-
-###  Search Functionality
-
-![Search](src/assets/search.png)
-
----
-
-###  Category Filter
-
-![Category Filter](src/assets/category.png)
-
----
-
-###  No Results Found
-
-![No Results](src/assets/no-results.png)
-
----
-
 ##  Installation
 
 Clone the repository
