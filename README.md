@@ -35,7 +35,6 @@ A modern, responsive **Random Quote Generator** built with **React**, **JavaScri
 - JavaScript (ES6+)
 - HTML5
 - CSS3
-- Vite
 
 ---
 
