@@ -137,7 +137,3 @@ SRM University-AP
  GitHub: https://github.com/debosmita-12
 
 ---
-
-## ⭐ Support
-
-If you found this project useful, consider giving it a ⭐ on GitHub!
