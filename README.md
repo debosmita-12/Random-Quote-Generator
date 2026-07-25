@@ -131,7 +131,7 @@ This project demonstrates:
 
 **Debosmita Mukhopadhyay**
 
-B.Tech – Computer Science & Engineering (AI & ML)  
+B.Tech – Computer Science & Engineering  
 SRM University-AP
 
  GitHub: https://github.com/debosmita-12
